@@ -4,7 +4,7 @@
 
 
 ## Supplementary Experiment
-### Analysis of Language Prior's Robustness
+### 1. Analysis of Language Prior's Robustness
 
 We evaluate whether CLG is sensitive to prompt phrasing. Specifically, we test three mild prompt perturbations:
 
