@@ -36,5 +36,31 @@
       <td><img src="images/15_image_4.png" width="120"></td>
       <td><img src="images/15_image_5.png" width="120"></td>
     </tr>
+    <tr>
+      <td><img src="images/17_image_0.png" width="120"></td>
+      <td><img src="images/17_image_1.png" width="120"></td>
+      <td><img src="images/17_image_2.png" width="120"></td>
+      <td rowspan="2"><img src="baseline/val_17_baseline_pred.png" width="180"></td>
+      <td rowspan="2"><img src="ours/val_17_ours_pred.png" width="180"></td>
+      <td rowspan="2"><img src="gt/val_17_gt.png" width="180"></td>
+    </tr>
+    <tr>
+      <td><img src="images/17_image_3.png" width="120"></td>
+      <td><img src="images/17_image_4.png" width="120"></td>
+      <td><img src="images/17_image_5.png" width="120"></td>
+    </tr>
+    <tr>
+      <td><img src="images/76_image_0.png" width="120"></td>
+      <td><img src="images/76_image_1.png" width="120"></td>
+      <td><img src="images/76_image_2.png" width="120"></td>
+      <td rowspan="2"><img src="baseline/val_76_baseline_pred.png" width="180"></td>
+      <td rowspan="2"><img src="ours/val_76_ours_pred.png" width="180"></td>
+      <td rowspan="2"><img src="gt/val_76_gt.png" width="180"></td>
+    </tr>
+    <tr>
+      <td><img src="images/76_image_3.png" width="120"></td>
+      <td><img src="images/76_image_4.png" width="120"></td>
+      <td><img src="images/76_image_5.png" width="120"></td>
+    </tr>
   </tbody>
 </table>
