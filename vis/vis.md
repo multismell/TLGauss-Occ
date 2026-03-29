@@ -14,7 +14,7 @@
       <td><img src="images/12_image_0.png" width="180"></td>
       <td><img src="images/12_image_1.png" width="180"></td>
       <td><img src="images/12_image_2.png" width="180"></td>
-      <td rowspan="2"><img src="baseline/val_12_baseline_pred.png" width="2028"></td>
+      <td rowspan="2"><img src="baseline/val_12_baseline_pred.png" width="100%"></td>
       <td rowspan="2"><img src="ours/val_12_ours_pred.png" width="2028"></td>
       <td rowspan="2"><img src="gt/val_12_gt.png" width="2028"></td>
     </tr>
