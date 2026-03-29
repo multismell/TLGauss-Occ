@@ -1,3 +1,4 @@
+## Visualizations
 <table>
   <thead>
     <tr>
