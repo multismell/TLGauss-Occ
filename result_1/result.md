@@ -1,4 +1,4 @@
-### 1. Analysis of Language Prior's Robustness
+### *Table 1*. Analysis of Language Prior's Robustness
 | Variant | Score | Δ from Original |
 |---|---:|---:|
 | Original | 20.7212 | 0.0000 |
