@@ -1,4 +1,4 @@
-### *Table 2*. Ablation on the number of 3D Gaussians. The latency is tested on an NVIDIA 4090 GPU during inference.
+### *Table 2.* Ablation on the number of 3D Gaussians. The latency is tested on an NVIDIA 4090 GPU during inference.
 | Method | Number of Gaussians | IoU | mIoU | Latenc(ms) |
 |---|---:|---:|---:|---:|
 | GaussianFormer-2 | 12800 | 30.37 | 19.94 | 323
