@@ -1,4 +1,4 @@
-### *Table 3*.
+### *Table 3.* Ablation on the source of semantic priors (mIoU): Learnable prototypes versus CLIP text features across different numbers of Gaussians.
 | Number of Gaussians | Learnable class embedding | CLIP text feature |
 |---|---:|---:|
 | 3200 | 19.64 | 19.51
