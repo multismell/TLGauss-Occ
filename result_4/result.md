@@ -1,7 +1,7 @@
 **Table 2. Monocular 3D semantic occupancy prediction results on SSCBench-KITTI-360.** Our method achieves state-of-the-art performance compared with other methods, surpassing GaussianFormer [15] by a clear margin.
 
 | Method | IoU | mIoU | car | bicycle | motorcycle | truck | other-veh. | person | road | parking | sidewalk | other-grnd | building | fence | vegetation | terrain | pole | traf.-sign | other-struct. | other-object |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | MonoScene | 37.87 | 12.31 | 19.34 | 0.43 | 0.58 | 8.02 | 2.03 | 0.86 | 48.35 | 11.38 | 28.13 | 3.22 | 32.89 | 3.53 | 26.15 | 16.75 | 6.92 | 5.67 | 4.20 | 3.09 |
 | Voxformer | 38.76 | 11.91 | 17.84 | 1.16 | 0.89 | 4.56 | 2.06 | 1.63 | 47.01 | 9.67 | 27.21 | 2.89 | 31.18 | 4.97 | 28.99 | 14.69 | 6.51 | **6.92** | 3.79 | 2.43 |
 | TPVFormer | 40.22 | 13.64 | 21.56 | 1.09 | 1.37 | 8.06 | 2.57 | 2.38 | 52.99 | **11.99** | 31.07 | 3.78 | **34.83** | 4.80 | **30.08** | 17.51 | **7.46** | 5.86 | 5.48 | 2.70 |
