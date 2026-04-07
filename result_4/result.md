@@ -1,4 +1,4 @@
-**Table 2. Monocular 3D semantic occupancy prediction results on SSCBench-KITTI-360.**
+**Table . Monocular 3D semantic occupancy prediction results on SSCBench-KITTI-360.**
 
 | Method | IoU | mIoU | car | bicycle | motorcycle | truck | other-veh. | person | road | parking | sidewalk | other-grnd | building | fence | vegetation | terrain | pole | traf.-sign | other-struct. | other-object |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
